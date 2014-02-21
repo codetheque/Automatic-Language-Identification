@@ -1,0 +1,94 @@
+Language french     - checking bigram 'Il' value -3.06296
+Language english    - checking bigram 'Il' value -3.0976
+Language portuguese - checking bigram 'Il' value -3.05308
+ 
+Language french     - checking bigram 'ls' value -2.21786
+Language english    - checking bigram 'ls' value -2.62048
+Language portuguese - checking bigram 'ls' value -2.57596
+ 
+Language french     - checking bigram 're' value -0.805279
+Language english    - checking bigram 're' value -0.907273
+Language portuguese - checking bigram 're' value -0.935807
+ 
+Language french     - checking bigram 'ev' value -2.36399
+Language english    - checking bigram 'ev' value -1.57909
+Language portuguese - checking bigram 'ev' value -1.227
+ 
+Language french     - checking bigram 'vi' value -1.74074
+Language english    - checking bigram 'vi' value -2.62048
+Language portuguese - checking bigram 'vi' value -1.46201
+ 
+Language french     - checking bigram 'ie' value -1.08523
+Language english    - checking bigram 'ie' value -1.86716
+Language portuguese - checking bigram 'ie' value -2.35411
+ 
+Language french     - checking bigram 'en' value -0.861561
+Language english    - checking bigram 'en' value -0.993801
+Language portuguese - checking bigram 'en' value -0.790627
+ 
+Language french     - checking bigram 'nd' value -1.19963
+Language english    - checking bigram 'nd' value -1.04453
+Language portuguese - checking bigram 'nd' value -1.134
+ 
+Language french     - checking bigram 'dr' value -1.88687
+Language english    - checking bigram 'dr' value -1.27153
+Language portuguese - checking bigram 'dr' value -1.02369
+ 
+Language french     - checking bigram 'ro' value -1.5716
+Language english    - checking bigram 'ro' value -1.29826
+Language portuguese - checking bigram 'ro' value -1.21423
+ 
+Language french     - checking bigram 'on' value -0.746987
+Language english    - checking bigram 'on' value -1.00069
+Language portuguese - checking bigram 'on' value -1.36288
+ 
+Language french     - checking bigram 'nt' value -0.973053
+Language english    - checking bigram 'nt' value -1.31227
+Language portuguese - checking bigram 'nt' value -1.06631
+ 
+Language french     - checking bigram 'au' value -1.27763
+Language english    - checking bigram 'au' value -2.14336
+Language portuguese - checking bigram 'au' value -2.35411
+ 
+Language french     - checking bigram 'fi' value -1.74074
+Language english    - checking bigram 'fi' value -1.98366
+Language portuguese - checking bigram 'fi' value -1.62171
+ 
+Language french     - checking bigram 'in' value -1.05864
+Language english    - checking bigram 'in' value -0.794408
+Language portuguese - checking bigram 'in' value -1.20182
+ 
+Language french     - checking bigram 'na' value -1.60056
+Language english    - checking bigram 'na' value -2.05621
+Language portuguese - checking bigram 'na' value -1.25374
+ 
+Language french     - checking bigram 'al' value -1.63159
+Language english    - checking bigram 'al' value -1.28469
+Language portuguese - checking bigram 'al' value -1.65514
+ 
+Language french     - checking bigram 'pe' value -1.00226
+Language english    - checking bigram 'pe' value -1.66624
+Language portuguese - checking bigram 'pe' value -1.12366
+ 
+Language french     - checking bigram 'eu' value -1.10392
+Language english    - checking bigram 'eu' value -1.57909
+Language portuguese - checking bigram 'eu' value -1.227
+ 
+Language french     - checking bigram 'ut' value -1.14388
+Language english    - checking bigram 'ut' value -1.44439
+Language portuguese - checking bigram 'ut' value -1.93914
+ 
+Language french     - checking bigram 'et' value -0.939106
+Language english    - checking bigram 'et' value -1.57909
+Language portuguese - checking bigram 'et' value -2.09884
+ 
+Language french     - checking bigram 'tr' value -1.37276
+Language english    - checking bigram 'tr' value -1.50654
+Language portuguese - checking bigram 'tr' value -1.65514
+ 
+Language french     - checking bigram 're' value -0.805279
+Language english    - checking bigram 're' value -0.907273
+Language portuguese - checking bigram 're' value -0.935807
+ 
+
+Most probable language is french
